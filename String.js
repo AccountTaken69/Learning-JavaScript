@@ -17,6 +17,7 @@ console.log(username.length);
 //Sets String to Upper or Lowercase
 console.log(username.toLowerCase());
 console.log(username.toUpperCase());
+//Removes whitespace from both start and end. Use .trimStart or .trimEnd to be more precise
 console.log(username.trim());
 //Splits the String
 console.log(username.split("D"));
